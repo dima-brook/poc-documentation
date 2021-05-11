@@ -1,0 +1,11 @@
+.doc-link {
+    color: white;
+}
+
+.doc-link:hover {
+    color: orange;
+}
+
+.doc-info {
+    font-family: monospace
+}
