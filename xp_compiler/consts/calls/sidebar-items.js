@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["CREATE_ACC",""],["TRANSFER_AMOUNT",""]]});
