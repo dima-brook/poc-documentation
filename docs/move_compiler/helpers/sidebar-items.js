@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["create_parent_account","Create a parent diem account"]]});
