@@ -31,7 +31,12 @@
                 "doc": "evm_asm",
                 "name": "evm-asm",
                 "desc": "EVM/Move Disassembler"
-            }
+            },
+			{
+				"doc": "serde_xp_protocol",
+				"name": "serde_xp_protocol",
+				"desc": "Reference XP Protocol"
+			}
         ]
         docTemp.bind(ctx)
     })();

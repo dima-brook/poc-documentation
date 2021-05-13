@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["from_bytes","This is a quick hack TODO: Refactor to use serde::Deserializer"],["to_bytes","TODO: refactor to use serde::Serializer"]],"struct":[["Flags","Flags is a 8bit Vector where each bit is the flag"],["XpProtocol","XpProtocol Proposal"]]});
