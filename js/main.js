@@ -36,6 +36,11 @@
 				"doc": "serde_xp_protocol",
 				"name": "serde_xp_protocol",
 				"desc": "Reference XP Protocol"
+			},
+			{
+				"doc": "xmessage",
+				"name": "xcmp_pallet-poc",
+				"desc": "Work in progress XCMP communication pallet supporting XP Protocol."
 			}
         ]
         docTemp.bind(ctx)
