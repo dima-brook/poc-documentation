@@ -47,6 +47,11 @@
 				"doc": "xmessage",
 				"name": "xcmp_pallet-poc",
 				"desc": "Work in progress XCMP communication pallet supporting XP Protocol."
+			}),
+            docElem({
+				"doc": "freezer",
+				"name": "freezer",
+				"desc": "XP-Elrond Migration freezer smart contract"
 			})
         ]
         docTemp.bind(ctx)
