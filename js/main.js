@@ -8,6 +8,11 @@
 
         const docTemp = Template('doc-item');
         const ctx = [
+			docElem({
+				"doc": "elrond_mint_contract",
+				"name": "Elrond Mint Contract",
+				"desc": "XP-Elrond Migration minter smart contract"
+			}),
             docElem({
 				"doc": "freezer",
 				"name": "freezer",

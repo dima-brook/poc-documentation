@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["contract_obj",""]],"struct":[["AbiProvider",""],["ContractObj",""],["Proxy",""]],"trait":[["AutoImpl",""],["EndpointWrappers",""],["Multisig",""],["ProxyTrait",""]]});

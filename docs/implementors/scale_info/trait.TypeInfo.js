@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["freezer"] = [{"text":"impl TypeInfo for <a class=\"enum\" href=\"freezer/freezer/enum.Action.html\" title=\"enum freezer::freezer::Action\">Action</a>","synthetic":false,"types":["freezer::freezer::Action"]},{"text":"impl TypeInfo for <a class=\"struct\" href=\"freezer/freezer/struct.ActionInfo.html\" title=\"struct freezer::freezer::ActionInfo\">ActionInfo</a>","synthetic":false,"types":["freezer::freezer::ActionInfo"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
