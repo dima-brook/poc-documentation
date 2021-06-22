@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["AUTH_PREFIX",""],["COIN",""]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["from_bytes",""],["to_bytes",""]],"struct":[["Flags","Flags is a 16bit Vector where each bit is the flag"],["XpProtocol","XpProtocol Proposal"]]});
