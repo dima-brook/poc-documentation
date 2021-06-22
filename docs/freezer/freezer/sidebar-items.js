@@ -1,1 +1,1 @@
-initSidebarItems({"enum":[["__ink_EventBase",""]],"struct":[["Freezer","Contract Storage Stores a list of validators"],["Transfer","Transfer to elrond chain event validators must subscribe to this"]]});
+initSidebarItems({"enum":[["Action",""],["__ink_EventBase",""]],"struct":[["ActionInfo",""],["Freezer","Contract Storage Stores a list of validators"],["ScCall",""],["Transfer","Transfer to elrond chain event validators must subscribe to this"],["UnfreezeWrap",""]]});
